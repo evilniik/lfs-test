@@ -18,3 +18,4 @@
 *.jpg filter=lfs -crlf
 *.png filter=lfs -crlf
 *.gif filter=lfs -crlf
+*.zip filter=lfs -crlf
